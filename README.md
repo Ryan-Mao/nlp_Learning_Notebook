@@ -1,0 +1,2 @@
+# nlp_Learning_Notebook
+记录自己学习youtube上nlp课程的笔记
